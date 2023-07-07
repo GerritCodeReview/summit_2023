@@ -1,0 +1,216 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8df2c765_c8d573ee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "Here\u0027s some fix proposals as it seems I do not have edit permissions on this repo.",
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc0368d2_aefaf7bd",
+        "filename": "index.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "Polestar",
+      "range": {
+        "startLine": 32,
+        "startChar": 54,
+        "endLine": 32,
+        "endChar": 59
+      },
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e24a0ee0_04d1c0ae",
+        "filename": "index.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "This location should probably be set to Volvohallen instead of the Visitor Center.",
+      "range": {
+        "startLine": 32,
+        "startChar": 10,
+        "endLine": 32,
+        "endChar": 47
+      },
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bca4eda8_7710a22d",
+        "filename": "location-europe.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "Polestar",
+      "range": {
+        "startLine": 5,
+        "startChar": 101,
+        "endLine": 5,
+        "endChar": 108
+      },
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "adef0feb_51723a1f",
+        "filename": "location-europe.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "Polestar",
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f9db08d9_c65d8909",
+        "filename": "location-europe.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "Volvo Cars PVD",
+      "range": {
+        "startLine": 16,
+        "startChar": 34,
+        "endLine": 16,
+        "endChar": 37
+      },
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "aaaa72de_418d526a",
+        "filename": "location-europe.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "Volvo Cars PVD\nVolvo Jakobs väg 17, 418 78 Gothenburg",
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "32317af8_cc1b132e",
+        "filename": "location-europe.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "the main (south) entrance of PVD",
+      "range": {
+        "startLine": 39,
+        "startChar": 46,
+        "endLine": 39,
+        "endChar": 49
+      },
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "730dd0fe_def9398e",
+        "filename": "location-europe.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "I will verify we can do this again, or see if there are some better options that are closer or more centrally located.",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 107
+      },
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e5ca8c8e_31df931b",
+        "filename": "location-europe.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1003965
+      },
+      "writtenOn": "2023-07-07T11:26:52Z",
+      "side": 1,
+      "message": "- Take the E6/E20 (Toll) road to E45/Oslo, stay on E6 onto Tingstadstunneln,\n  then keep left at the fork to continue on Lundbyleden, follow signs for\n  Route 155/Öckerö/N Älvstranden/Hamnar.\n- Use the right lane to take the Route 155 slip road to E6/E45/Hamn/Torslanda/Öckerö/Oslo/Karlstad.\n- Keep left to stay on Hisingsleden, follow signs for E45/Angered Volvo/E6.\n- Continue on Hisingsleden and then use the left 2 lanes to turn left onto\n  Assar Gabrielssons väg (signs for Volvo Torslanda).\n- Follow the road through a traffic light, and at the roundabout, take the \n  first exit.\n- Take the first exit at the next roundabout (go straight through).\n- At the traffic light, turn left. \n- After about 400m, you will see a white building on the left, which is PVD, and a parking structure on the right.  Turn right, and then in about 100m turn left into the parking structure.  Spaces will be available and their location is TBD.",
+      "range": {
+        "startLine": 68,
+        "startChar": 3,
+        "endLine": 68,
+        "endChar": 6
+      },
+      "revId": "0705dec3f8bc099b9415be04b19dcd8ec9418810",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
