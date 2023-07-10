@@ -16,6 +16,75 @@
       "message": "Based on what we have now, +1.  More information will come, e.g. hotel specials.",
       "revId": "6240e9e96a76eb4fff79da9705135f8bc514a4df",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9363b4d9_53b9dcbb",
+        "filename": "location-europe.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2023-07-10T19:00:02Z",
+      "side": 1,
+      "message": "nit: `s/Polestar/polestar`",
+      "range": {
+        "startLine": 5,
+        "startChar": 123,
+        "endLine": 5,
+        "endChar": 131
+      },
+      "revId": "6240e9e96a76eb4fff79da9705135f8bc514a4df",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "55a9a13d_7d39aea7",
+        "filename": "location-europe.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2023-07-10T19:00:02Z",
+      "side": 1,
+      "message": "nit: trailing space",
+      "range": {
+        "startLine": 30,
+        "startChar": 88,
+        "endLine": 30,
+        "endChar": 89
+      },
+      "revId": "6240e9e96a76eb4fff79da9705135f8bc514a4df",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "385df1c7_b03f7e83",
+        "filename": "schedule.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2023-07-10T19:00:02Z",
+      "side": 1,
+      "message": "nit: bunch of not needed trailing spaces",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 54,
+        "endChar": 96
+      },
+      "revId": "6240e9e96a76eb4fff79da9705135f8bc514a4df",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
