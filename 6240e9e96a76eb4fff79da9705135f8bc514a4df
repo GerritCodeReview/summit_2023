@@ -41,6 +41,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "345de8e4_aecec206",
+        "filename": "location-europe.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2023-07-10T21:05:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9363b4d9_53b9dcbb",
+      "range": {
+        "startLine": 5,
+        "startChar": 123,
+        "endLine": 5,
+        "endChar": 131
+      },
+      "revId": "6240e9e96a76eb4fff79da9705135f8bc514a4df",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "55a9a13d_7d39aea7",
