@@ -31,7 +31,7 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 |   17:00   |    08:00  | Welcome to GerritForge Inc. - *TBC*
 |   17:15   |    08:15  | *TALK AVAILABLE - Sweden / USA*
 |   18:00   |    09:00  | *TALK AVAILABLE - Sweden / USA*
-|   18:45   |    09:45  | *TALK AVAILABLE - Sweden / USA*
+|   18:45   |    09:45  | [Code Review Research Highlights](schedule/recent-rebels-research.md)
 |   19:30   |    10:30  | End of Day 1 - Sweden / Break & Networking - US
 |   20:00   |           | Dinner - Celebrations for Gerrit 15 years
 |           |    11:15  | *TALK AVAILABLE - USA*
