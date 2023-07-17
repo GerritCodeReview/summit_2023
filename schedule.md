@@ -37,7 +37,6 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 |           |    11:15  | *TALK AVAILABLE - USA*
 |           |    12:30  | Lunch & Networking
 
-### Sunday 1st October
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
