@@ -54,5 +54,7 @@ breakfast with remote viewing of talk)*
 |   17:00   |   08:00   | [Q&A with the maintainers](schedule/maintainers-qa.md)
 |   17:45   |   08:45   | *TALK AVAILABLE - Sweden / USA*
 |   18:30   |   09:30   | End of the Summit - Sweden / Break & Networking - USA
-|           |   10:15   | *LIGHTNING TALKS*
+|           |   10:15   | Un-Splitting Gerrit, detecting and resolving split
+brain scenarios at scale
+|           |   10:30   | *LIGHTNING TALKS*
 |           |   11:15   | End of the Summit - USA
