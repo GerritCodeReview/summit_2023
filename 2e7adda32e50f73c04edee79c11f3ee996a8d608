@@ -41,6 +41,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7b107a7_e54cb4da",
+        "filename": "sessions/recent-rebels-research.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2023-07-21T23:02:41Z",
+      "side": 1,
+      "message": "Will amend as a follow-up.",
+      "parentUuid": "d4e2aafb_2023a3ae",
+      "range": {
+        "startLine": 3,
+        "startChar": 47,
+        "endLine": 3,
+        "endChar": 48
+      },
+      "revId": "2e7adda32e50f73c04edee79c11f3ee996a8d608",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cb4fbedf_a2f4c543",
@@ -54,6 +78,30 @@
       "writtenOn": "2023-07-15T00:31:58Z",
       "side": 1,
       "message": "nit: empty space at the end of the line",
+      "range": {
+        "startLine": 9,
+        "startChar": 134,
+        "endLine": 9,
+        "endChar": 135
+      },
+      "revId": "2e7adda32e50f73c04edee79c11f3ee996a8d608",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fdb4f7d5_1e4efd8a",
+        "filename": "sessions/recent-rebels-research.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2023-07-21T23:02:41Z",
+      "side": 1,
+      "message": "Will amend as a follow-up.",
+      "parentUuid": "cb4fbedf_a2f4c543",
       "range": {
         "startLine": 9,
         "startChar": 134,
