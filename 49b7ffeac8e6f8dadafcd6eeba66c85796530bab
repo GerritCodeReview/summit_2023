@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1d5aba01_9183ba3d",
+        "filename": "schedule.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2023-07-21T23:04:40Z",
+      "side": 1,
+      "message": "Can you add the details? You can copy the `/lightning-talks/template.md` into a new file `/lightning-talks/unsplitting-gerrit.md`",
+      "range": {
+        "startLine": 57,
+        "startChar": 26,
+        "endLine": 58,
+        "endChar": 24
+      },
+      "revId": "49b7ffeac8e6f8dadafcd6eeba66c85796530bab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
