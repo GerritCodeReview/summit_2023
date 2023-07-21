@@ -46,6 +46,24 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
+<<<<<<< PATCH SET (49b7ff Dani's proposal talk for GUS23)
+|   10:30   |           | Networking
+|   11:00   |           | *TALK AVAILABLE - Sweden*
+|   11:45   |           | Break
+|   11:00   |           | *TALK AVAILABLE - Sweden*
+|   12:45   |           | Lunch & Networking
+|   14:00   |           | *TALK AVAILABLE - Sweden*
+|   14:45   |           | *TALK AVAILABLE - Sweden*
+|   15:30   |           | *TALK AVAILABLE - Sweden*
+|   16:00   |           | Break & Networking
+|   17:00   |   08:00   | [Q&A with the maintainers](schedule/maintainers-qa.md)
+|   17:45   |   08:45   | *TALK AVAILABLE - Sweden / USA*
+|   18:30   |   09:30   | End of the Summit - Sweden / Break & Networking - USA
+|           |   10:15   | Un-Splitting Gerrit, detecting and resolving split
+brain scenarios at scale
+|           |   10:30   | *LIGHTNING TALKS*
+|           |   11:15   | End of the Summit - USA
+=======
 | 10:30     |           | Networking
 | 11:00     |           | [Q&A with the maintainers](schedule/maintainers-qa.md)
 | 11:45     |           | Break
@@ -55,3 +73,4 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 | 14:45     |           | *TALK AVAILABLE - Sweden*
 | 15:30     |           | *TALK AVAILABLE - Sweden*
 | 16:00     |           | End of the Summit - Sweden
+>>>>>>> BASE      (706771 Add Zuul session)
