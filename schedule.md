@@ -37,7 +37,7 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 | 19:30     | 10:00     | End of Day 1 - Sweden / Break & Networking - US
 | 20:00     |           | Dinner - Celebrations for Gerrit 15 years - Sweden
 |           | 10:30     | [Git GC at scale for Pro](schedule/git-gc-at-scale.md)
-|           | 11:15     | *TALK AVAILABLE - USA*
+|           | 11:15     | Un-Splitting Gerrit, detecting and resolving split
 |           | 12:00     | Lunch & Networking
 
 ### Sunday 1st October
