@@ -25,3 +25,11 @@ Ph.D. research is making pragmatic improvements to the quality and efficiency of
 review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
+
+### Jacek Centkowski - Unaffiliated {#jacek}
+
+Jacek Centkowski is a Gerrit contributor since 2013. He deepened his Gerrit knowledge and
+involvement and was trusted a maintainer in 2020. He has recently focused on
+[owners' plugin improvements](https://gerrit-review.googlesource.com/c/plugins/owners/+/373094/1).
+
+[LinkedIn](https://www.linkedin.com/in/jcentkowski/)
