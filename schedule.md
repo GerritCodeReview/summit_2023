@@ -33,7 +33,7 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 | 18:00     | 09:00     | [Tailor Gerrit's healthcheck with Extensible Checks](sessions/extensible-healthcheck.md)
 | 18:15     | 09:15     | [Entering the gerrit world, painpoints and wows](lightning-talks/entering-gerrit-worls.md)
 | 18:30     | 09:30     | *LIGHTNING TALKS*
-| 18:45     | 09:45     | [Code Review Research Highlights](schedule/recent-rebels-research.md)
+| 18:45     | 09:45     | [Code Review Research Highlights](sessions/recent-rebels-research.md)
 | 19:30     | 10:00     | End of Day 1 - Sweden / Break & Networking - US
 | 20:00     |           | Dinner - Celebrations for Gerrit 15 years - Sweden
 |           | 10:30     | [Git GC at scale for Pro](schedule/git-gc-at-scale.md)
