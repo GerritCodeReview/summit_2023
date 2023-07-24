@@ -21,6 +21,24 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
+<<<<<<< PATCH SET (102840 Fix schedule links to sessions)
+|   10:30   |           | Registration Opens, Networking
+|   11:00   |           | Welcome to Volvo Cars - *TBC*
+|   11:45   |           | *TALK AVAILABLE - Sweden*
+|   12:45   |           | Lunch & Networking
+|   15:00   |           | *TALK AVAILABLE - Sweden*
+|   15:45   |           | *TALK AVAILABLE - Sweden*
+|   16:00   |           | Break & Networking
+|   17:00   |    08:00  | *TALK AVAILABLE - Sweden / USA(early attenders,
+breakfast with remote viewing of talk)*
+|   17:45   |    08:45  | Welcome to GerritForge Inc. - *TBC*
+|   18:00   |    09:00  | *TALK AVAILABLE - Sweden / USA*
+|   18:45   |    09:45  | [Code Review Research Highlights](sessions/recent-rebels-research.md)
+|   19:30   |    10:30  | End of Day 1 - Sweden / Break & Networking - US
+|   20:00   |           | Dinner - Celebrations for Gerrit 15 years
+|           |    10:45  | *TALK AVAILABLE - USA*
+|           |    11:30  | Lunch & Networking
+=======
 | 10:30     |           | Registration Opens, Networking
 | 11:00     |           | Welcome to Volvo Cars - *TBC*
 | 11:45     |           | *TALK AVAILABLE - Sweden*
@@ -39,6 +57,7 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 |           | 10:30     | [Git GC at scale for Pro](schedule/git-gc-at-scale.md)
 |           | 11:15     | Un-Splitting Gerrit, detecting and resolving split
 |           | 12:00     | Lunch & Networking
+>>>>>>> BASE      (f2d782 Dani's proposal talk for GUS23)
 
 ### Sunday 1st October
 
@@ -46,6 +65,22 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
+<<<<<<< PATCH SET (102840 Fix schedule links to sessions)
+|   10:30   |           | Networking
+|   11:00   |           | *TALK AVAILABLE - Sweden*
+|   11:45   |           | Break
+|   11:00   |           | *TALK AVAILABLE - Sweden*
+|   12:45   |           | Lunch & Networking
+|   14:00   |           | *TALK AVAILABLE - Sweden*
+|   14:45   |           | *TALK AVAILABLE - Sweden*
+|   15:30   |           | *TALK AVAILABLE - Sweden*
+|   16:00   |           | Break & Networking
+|   17:00   |   08:00   | [Q&A with the maintainers](sessions/maintainers-qa.md)
+|   17:45   |   08:45   | *TALK AVAILABLE - Sweden / USA*
+|   18:30   |   09:30   | End of the Summit - Sweden / Break & Networking - USA
+|           |   10:15   | *LIGHTNING TALKS*
+|           |   11:15   | End of the Summit - USA
+=======
 | 10:30     |           | Networking
 | 11:00     |           | [Q&A with the maintainers](schedule/maintainers-qa.md)
 | 11:45     |           | Break
@@ -55,3 +90,4 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 | 14:45     |           | *TALK AVAILABLE - Sweden*
 | 15:30     |           | *TALK AVAILABLE - Sweden*
 | 16:00     |           | End of the Summit - Sweden
+>>>>>>> BASE      (f2d782 Dani's proposal talk for GUS23)
