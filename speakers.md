@@ -26,6 +26,14 @@ review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
 
+<<<<<<< PATCH SET (b87ecb Add Entering the gerrit world lighting talk)
+### Diego Zambelli Sessona - GerritForge {#diego}
+
+Diego Zambelli Sessona is a software developer and started to discover Gerrit only a few
+months ago. Working at Gerritforge started to add his small contributions in  June 2023.
+
+[LinkedIn](https://www.linkedin.com/in/diegozambellisessona/)
+=======
 ### Antonio Barone - GerritForge {#syntonyze}
 
 [LinkedIn](https://uk.linkedin.com/in/anbarone/)
@@ -49,6 +57,7 @@ events-broker(Kafka and AWS Kinesis) and pull-replication.
 Christoforos is a Software Engineer with a broad experience in distributed
 systems. He joined GerritForge in March 2023 where he contributes to the
 OpenSource Gerrit Code Review project.
+>>>>>>> BASE      (699514 Add extensible healthcheck talk)
 
 ### Jacek Centkowski - Unaffiliated {#jacek}
 
