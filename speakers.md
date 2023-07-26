@@ -26,6 +26,13 @@ review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
 
+### Diego Zambelli Sessona - GerritForge {#diego}
+
+Diego Zambelli Sessona is a software developer and started to discover Gerrit only a few
+months ago. Working at Gerritforge started to add his small contributions in  June 2023.
+
+[LinkedIn](https://www.linkedin.com/in/diegozambellisessona/)
+
 ### Antonio Barone - GerritForge {#syntonyze}
 
 [LinkedIn](https://uk.linkedin.com/in/anbarone/)
