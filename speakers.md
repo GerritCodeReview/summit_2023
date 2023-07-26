@@ -25,3 +25,11 @@ Ph.D. research is making pragmatic improvements to the quality and efficiency of
 review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
+
+### Diego Zambelli Sessona - GerritForge {#diego}
+
+Whatever
+
+### Chistoforos Miliotis - GerritForge {#dchris}
+
+Whatever
