@@ -49,7 +49,7 @@ breakfast with remote viewing of talk)*
 |   12:45   |           | Lunch & Networking
 |   14:00   |           | *TALK AVAILABLE - Sweden*
 |   14:45   |           | *TALK AVAILABLE - Sweden*
-|   15:30   |           | *TALK AVAILABLE - Sweden*
+|   15:30   |           | Entering the gerrit world, painpoints and wows
 |   16:00   |           | Break & Networking
 |   17:00   |   08:00   | [Q&A with the maintainers](schedule/maintainers-qa.md)
 |   17:45   |   08:45   | *TALK AVAILABLE - Sweden / USA*
