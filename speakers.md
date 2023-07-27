@@ -26,6 +26,23 @@ review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
 
+### Fabio Ponciroli - GerritForge {#fponciroli}
+
+[LinkedIn](https://uk.linkedin.com/in/fponciroli/)
+
+Fabio is a Senior Software Engineer at GerritForge, where he contributes to the
+OpenSource Gerrit Code Review project.
+He has been involved since the beginning in the design and development of Gerrit
+[DevOps analytics](https://gerrit.googlesource.com/plugins/analytics/)
+tools, [multi-site](https://gerrit.googlesource.com/plugins/multi-site/) plugin
+and many other.
+He has also created the [Gatling protocol manager for Git](https://github.com/GerritForge/gatling-git)
+which has finally provided a real E2E test suite for the validation of
+the Gerrit Code Review releases.
+He has extensive experience in working on backend systems, on-premise and
+cloud-based, with different programming languages, such as Scala, Java, NodeJS
+and related ecosystems.
+
 ### Diego Zambelli Sessona - GerritForge {#diego}
 
 Diego Zambelli Sessona is a software developer and started to discover Gerrit only a few
