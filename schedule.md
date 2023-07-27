@@ -46,6 +46,22 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
+<<<<<<< PATCH SET (8b0560 Ponch's talk GUS2023)
+|   10:30   |           | Networking
+|   11:00   |           | *TALK AVAILABLE - Sweden*
+|   11:45   |           | Break
+|   11:00   |           | *TALK AVAILABLE - Sweden*
+|   12:45   |           | Lunch & Networking
+|   14:00   |           | *TALK AVAILABLE - Sweden*
+|   14:45   |           | *TALK AVAILABLE - Sweden*
+|   15:30   |           | *TALK AVAILABLE - Sweden*
+|   16:00   |           | Break & Networking
+|   17:00   |   08:00   | [Q&A with the maintainers](schedule/maintainers-qa.md)
+|   17:45   |   08:45   | [Git GC at scale for Pro](schedule/git-gc-at-scale.md)
+|   18:30   |   09:30   | End of the Summit - Sweden / Break & Networking - USA
+|           |   10:15   | *LIGHTNING TALKS*
+|           |   11:15   | End of the Summit - USA
+=======
 | 10:30     |           | Networking
 | 11:00     |           | [Q&A with the maintainers](schedule/maintainers-qa.md)
 | 11:45     |           | Break
@@ -56,3 +72,4 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 | 15:30     |           | *TALK AVAILABLE - Sweden*
 | 16:00     |           | End of the Summit - Sweden
 >>>>>>> BASE      (699514 Add extensible healthcheck talk)
+>>>>>>> BASE      (629ad4 Add Entering the gerrit world lighting talk)

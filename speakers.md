@@ -26,14 +26,30 @@ review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
 
-<<<<<<< PATCH SET (b87ecb Add Entering the gerrit world lighting talk)
+### Fabio Ponciroli - GerritForge {#fponciroli}
+
+[LinkedIn](https://uk.linkedin.com/in/fponciroli/)
+
+Fabio is a Senior Software Engineer at GerritForge, where he contributes to the
+OpenSource Gerrit Code Review project.
+He has been involved since the beginning in the design and development of Gerrit
+[DevOps analytics](https://gerrit.googlesource.com/plugins/analytics/)
+tools, [multi-site](https://gerrit.googlesource.com/plugins/multi-site/) plugin
+and many other.
+He has also created the [Gatling protocol manager for Git](https://github.com/GerritForge/gatling-git)
+which has finally provided a real E2E test suite for the validation of
+the Gerrit Code Review releases.
+He has extensive experience in working on backend systems, on-premise and
+cloud-based, with different programming languages, such as Scala, Java, NodeJS
+and related ecosystems.
+
 ### Diego Zambelli Sessona - GerritForge {#diego}
 
 Diego Zambelli Sessona is a software developer and started to discover Gerrit only a few
 months ago. Working at Gerritforge started to add his small contributions in  June 2023.
 
 [LinkedIn](https://www.linkedin.com/in/diegozambellisessona/)
-=======
+
 ### Antonio Barone - GerritForge {#syntonyze}
 
 [LinkedIn](https://uk.linkedin.com/in/anbarone/)
@@ -57,7 +73,6 @@ events-broker(Kafka and AWS Kinesis) and pull-replication.
 Christoforos is a Software Engineer with a broad experience in distributed
 systems. He joined GerritForge in March 2023 where he contributes to the
 OpenSource Gerrit Code Review project.
->>>>>>> BASE      (699514 Add extensible healthcheck talk)
 
 ### Jacek Centkowski - Unaffiliated {#jacek}
 
