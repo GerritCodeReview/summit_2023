@@ -52,7 +52,7 @@ breakfast with remote viewing of talk)*
 |   15:30   |           | *TALK AVAILABLE - Sweden*
 |   16:00   |           | Break & Networking
 |   17:00   |   08:00   | [Q&A with the maintainers](schedule/maintainers-qa.md)
-|   17:45   |   08:45   | *TALK AVAILABLE - Sweden / USA*
+|   17:45   |   08:45   | [Git GC at scale for Pro](schedule/git-gc-at-scale.md)
 |   18:30   |   09:30   | End of the Summit - Sweden / Break & Networking - USA
 |           |   10:15   | *LIGHTNING TALKS*
 |           |   11:15   | End of the Summit - USA
