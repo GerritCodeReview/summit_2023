@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b412ecdb_9ff195fb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2023-07-27T13:32:08Z",
+      "side": 1,
+      "message": "Can you also add a short bio in `speakers.md`?",
+      "revId": "49b7ffeac8e6f8dadafcd6eeba66c85796530bab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1d5aba01_9183ba3d",
