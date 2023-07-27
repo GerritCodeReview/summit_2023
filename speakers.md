@@ -26,6 +26,24 @@ review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
 
+<<<<<<< PATCH SET (8b0560 Ponch's talk GUS2023)
+### Fabio Ponciroli - GerritForge {#fponciroli}
+
+[LinkedIn](https://uk.linkedin.com/in/fponciroli/)
+
+Fabio is a Senior Software Engineer at GerritForge, where he contributes to the
+OpenSource Gerrit Code Review project.
+He has been involved since the beginning in the design and development of Gerrit
+[DevOps analytics](https://gerrit.googlesource.com/plugins/analytics/)
+tools, [multi-site](https://gerrit.googlesource.com/plugins/multi-site/) plugin
+and many other.
+He has also created the [Gatling protocol manager for Git](https://github.com/GerritForge/gatling-git)
+which has finally provided a real E2E test suite for the validation of
+the Gerrit Code Review releases.
+He has extensive experience in working on backend systems, on-premise and
+cloud-based, with different programming languages, such as Scala, Java, NodeJS
+and related ecosystems.
+=======
 <<<<<<< PATCH SET (b87ecb Add Entering the gerrit world lighting talk)
 ### Diego Zambelli Sessona - GerritForge {#diego}
 
@@ -66,3 +84,4 @@ involvement and was trusted a maintainer in 2020. He has recently focused on
 [owners' plugin improvements](https://gerrit-review.googlesource.com/c/plugins/owners/+/373094/1).
 
 [LinkedIn](https://www.linkedin.com/in/jcentkowski/)
+>>>>>>> BASE      (629ad4 Add Entering the gerrit world lighting talk)
