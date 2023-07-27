@@ -25,7 +25,7 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 | 11:00     |           | Welcome to Volvo Cars - *TBC*
 | 11:45     |           | *TALK AVAILABLE - Sweden*
 | 12:45     |           | Lunch & Networking
-| 15:00     |           | *TALK AVAILABLE - Sweden*
+| 15:00     |           | [Zuul: Project Gating for Gerrit](sessions/zuul.md)
 | 15:45     |           | [Make your owners rules faster](sessions/speed-up-owners.md)
 | 16:00     |           | Break & Networking
 |           | 08:00     | USA, early attenders, breakfast with remote viewing of talk
