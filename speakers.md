@@ -7,6 +7,16 @@ became a maintainer in 2012 and assumed the role as community manager in 2023.
 
 [LinkedIn](https://www.linkedin.com/in/firstlast/)
 
+### James Blair - Acme Gating {#corvus}
+
+James is the project lead for the Zuul project gating system, and a
+founding member of the OpenDev collaboratory team.  As a sysadmin and
+hacker he gets to write elegant code and then try to make it work in the
+real world.  He started [Acme Gating](https://acmegating.com/) to provide
+enterprise Zuul support and services.
+
+[LinkedIn](https://www.linkedin.com/in/jamesblair2/)
+
 ### Shane McIntosh - University of Waterloo {#shane}
 
 Shane McIntosh is the current Ross & Muriel Faculty Fellow and an Associate Professor in the
