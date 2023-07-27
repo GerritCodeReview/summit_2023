@@ -21,6 +21,24 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
+<<<<<<< PATCH SET (608a0c Add Zuul session)
+|   10:30   |           | Registration Opens, Networking
+|   11:00   |           | Welcome to Volvo Cars - *TBC*
+|   11:45   |           | *TALK AVAILABLE - Sweden*
+|   12:45   |           | Lunch & Networking
+|   15:00   |           | [Zuul: Project Gating for Gerrit](schedule/zuul.md)
+|   15:45   |           | *TALK AVAILABLE - Sweden*
+|   16:00   |           | Break & Networking
+|   17:00   |    08:00  | *TALK AVAILABLE - Sweden / USA(early attenders,
+breakfast with remote viewing of talk)*
+|   17:45   |    08:45  | Welcome to GerritForge Inc. - *TBC*
+|   18:00   |    09:00  | *TALK AVAILABLE - Sweden / USA*
+|   18:45   |    09:45  | [Code Review Research Highlights](schedule/recent-rebels-research.md)
+|   19:30   |    10:30  | End of Day 1 - Sweden / Break & Networking - US
+|   20:00   |           | Dinner - Celebrations for Gerrit 15 years
+|           |    10:45  | *TALK AVAILABLE - USA*
+|           |    11:30  | Lunch & Networking
+=======
 | 10:30     |           | Registration Opens, Networking
 | 11:00     |           | Welcome to Volvo Cars - *TBC*
 | 11:45     |           | *TALK AVAILABLE - Sweden*
@@ -39,6 +57,7 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 |           | 10:30     | [Git GC at scale for Pro](schedule/git-gc-at-scale.md)
 |           | 11:15     | *TALK AVAILABLE - USA*
 |           | 12:00     | Lunch & Networking
+>>>>>>> BASE      (0eb726 Ponch's talk GUS2023)
 
 ### Sunday 1st October
 

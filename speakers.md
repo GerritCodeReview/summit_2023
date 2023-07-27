@@ -7,6 +7,16 @@ became a maintainer in 2012 and assumed the role as community manager in 2023.
 
 [LinkedIn](https://www.linkedin.com/in/firstlast/)
 
+### James Blair - Acme Gating {#corvus}
+
+James is the project lead for the Zuul project gating system, and a
+founding member of the OpenDev collaboratory team.  As a sysadmin and
+hacker he gets to write elegant code and then try to make it work in the
+real world.  He started [Acme Gating](https://acmegating.com/) to provide
+enterprise Zuul support and services.
+
+[LinkedIn](https://www.linkedin.com/in/jamesblair2/)
+
 ### Shane McIntosh - University of Waterloo {#shane}
 
 Shane McIntosh is the current Ross & Muriel Faculty Fellow and an Associate Professor in the
@@ -25,6 +35,8 @@ Ph.D. research is making pragmatic improvements to the quality and efficiency of
 review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
+<<<<<<< PATCH SET (608a0c Add Zuul session)
+=======
 
 ### Fabio Ponciroli - GerritForge {#fponciroli}
 
@@ -81,3 +93,4 @@ involvement and was trusted a maintainer in 2020. He has recently focused on
 [owners' plugin improvements](https://gerrit-review.googlesource.com/c/plugins/owners/+/373094/1).
 
 [LinkedIn](https://www.linkedin.com/in/jcentkowski/)
+>>>>>>> BASE      (0eb726 Ponch's talk GUS2023)
