@@ -21,6 +21,24 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
+<<<<<<< PATCH SET (cef62e One Day in US only)
+| 10:30     |           | Registration Opens, Networking
+| 11:00     |           | Welcome to Volvo Cars - *TBC*
+| 11:45     |           | *TALK AVAILABLE - Sweden*
+| 12:45     |           | Lunch & Networking
+| 15:00     |           | *TALK AVAILABLE - Sweden*
+| 15:45     |           | *TALK AVAILABLE - Sweden*
+| 16:00     |           | Break & Networking
+| 17:00     | 08:00     | Welcome to GerritForge Inc. - *TBC* (early attenders, breakfast with remote viewing of talk)*
+| 17:15     | 08:15     | *TALK AVAILABLE - Sweden / USA
+| 18:00     | 09:00     | *LIGHTNING TALKS*
+| 18:45     | 09:45     | [Q&A with the maintainers](schedule/maintainers-qa.md)
+| 19:30     | 10:30     | End of Day 1 - Sweden / Break & Networking - US
+| 20:00     |           | Dinner - Celebrations for Gerrit 15 years - Sweden
+|           | 10:45     | *TALK AVAILABLE - USA*
+|           | 11:30     | *TALK AVAILABLE - USA*
+|           | 12:15     | Lunch & Networking
+=======
 |   10:30   |           | Registration Opens, Networking
 |   11:00   |           | Welcome to Volvo Cars - *TBC*
 |   11:45   |           | *TALK AVAILABLE - Sweden*
@@ -37,22 +55,18 @@ breakfast with remote viewing of talk)*
 |   20:00   |           | Dinner - Celebrations for Gerrit 15 years
 |           |    10:45  | *TALK AVAILABLE - USA*
 |           |    11:30  | Lunch & Networking
+>>>>>>> BASE      (0dd77f Add sessions about the owners plugin improvement)
 
 ### Sunday 1st October
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
-|   10:30   |           | Networking
-|   11:00   |           | *TALK AVAILABLE - Sweden*
-|   11:45   |           | Break
-|   11:00   |           | *TALK AVAILABLE - Sweden*
-|   12:45   |           | Lunch & Networking
-|   14:00   |           | *TALK AVAILABLE - Sweden*
-|   14:45   |           | *TALK AVAILABLE - Sweden*
-|   15:30   |           | *TALK AVAILABLE - Sweden*
-|   16:00   |           | Break & Networking
-|   17:00   |   08:00   | [Q&A with the maintainers](schedule/maintainers-qa.md)
-|   17:45   |   08:45   | *TALK AVAILABLE - Sweden / USA*
-|   18:30   |   09:30   | End of the Summit - Sweden / Break & Networking - USA
-|           |   10:15   | *LIGHTNING TALKS*
-|           |   11:15   | End of the Summit - USA
+| 10:30     |           | Networking
+| 11:00     |           | *TALK AVAILABLE - Sweden*
+| 11:45     |           | Break
+| 12:00     |           | *TALK AVAILABLE - Sweden*
+| 12:45     |           | Lunch & Networking
+| 14:00     |           | *TALK AVAILABLE - Sweden*
+| 14:45     |           | *TALK AVAILABLE - Sweden*
+| 15:30     |           | *TALK AVAILABLE - Sweden*
+| 16:00     |           | End of the Summit - Sweden
