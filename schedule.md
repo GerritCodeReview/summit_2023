@@ -21,38 +21,34 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
-|   10:30   |           | Registration Opens, Networking
-|   11:00   |           | Welcome to Volvo Cars - *TBC*
-|   11:45   |           | *TALK AVAILABLE - Sweden*
-|   12:45   |           | Lunch & Networking
-|   15:00   |           | *TALK AVAILABLE - Sweden*
-|   15:45   |           | [Make your owners rules faster](sessions/speed-up-owners.md)
-|   16:00   |           | Break & Networking
-|   17:00   |    08:00  | *TALK AVAILABLE - Sweden / USA(early attenders,
-breakfast with remote viewing of talk)*
-|   17:45   |    08:45  | Welcome to GerritForge Inc. - *TBC*
-|   18:00   |    09:00  | *TALK AVAILABLE - Sweden / USA*
-|   18:45   |    09:45  | [Code Review Research Highlights](schedule/recent-rebels-research.md)
-|   19:30   |    10:30  | End of Day 1 - Sweden / Break & Networking - US
-|   20:00   |           | Dinner - Celebrations for Gerrit 15 years
-|           |    10:45  | *TALK AVAILABLE - USA*
-|           |    11:30  | Lunch & Networking
+| 10:30     |           | Registration Opens, Networking
+| 11:00     |           | Welcome to Volvo Cars - *TBC*
+| 11:45     |           | *TALK AVAILABLE - Sweden*
+| 12:45     |           | Lunch & Networking
+| 15:00     |           | *TALK AVAILABLE - Sweden*
+| 15:45     |           | [Make your owners rules faster](sessions/speed-up-owners.md)
+| 16:00     |           | Break & Networking
+| 17:00     | 08:00     | *TALK AVAILABLE - Sweden* (early attenders, breakfast with remote viewing of talk)*
+| 18:00     | 09:00     | *LIGHTNING TALKS*
+| 18:45     | 09:45     | [Code Review Research Highlights](schedule/recent-rebels-research.md)
+| 19:30     | 10:30     | End of Day 1 - Sweden / Break & Networking - US
+| 20:00     |           | Dinner - Celebrations for Gerrit 15 years - Sweden
+|           | 10:45     | *TALK AVAILABLE - USA*
+|           | 11:30     | *TALK AVAILABLE - USA*
+|           | 12:15     | Lunch & Networking
 
 ### Sunday 1st October
 
+The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
+
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
-|   10:30   |           | Networking
-|   11:00   |           | *TALK AVAILABLE - Sweden*
-|   11:45   |           | Break
-|   11:00   |           | *TALK AVAILABLE - Sweden*
-|   12:45   |           | Lunch & Networking
-|   14:00   |           | *TALK AVAILABLE - Sweden*
-|   14:45   |           | *TALK AVAILABLE - Sweden*
-|   15:30   |           | *TALK AVAILABLE - Sweden*
-|   16:00   |           | Break & Networking
-|   17:00   |   08:00   | [Q&A with the maintainers](schedule/maintainers-qa.md)
-|   17:45   |   08:45   | *TALK AVAILABLE - Sweden / USA*
-|   18:30   |   09:30   | End of the Summit - Sweden / Break & Networking - USA
-|           |   10:15   | *LIGHTNING TALKS*
-|           |   11:15   | End of the Summit - USA
+| 10:30     |           | Networking
+| 11:00     |           | [Q&A with the maintainers](schedule/maintainers-qa.md)
+| 11:45     |           | Break
+| 12:00     |           | *TALK AVAILABLE - Sweden*
+| 12:45     |           | Lunch & Networking
+| 14:00     |           | *TALK AVAILABLE - Sweden*
+| 14:45     |           | *TALK AVAILABLE - Sweden*
+| 15:30     |           | *TALK AVAILABLE - Sweden*
+| 16:00     |           | End of the Summit - Sweden
