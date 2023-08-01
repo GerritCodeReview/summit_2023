@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "43ff1685_9866379c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1086104
+      },
+      "writtenOn": "2023-08-01T16:58:07Z",
+      "side": 1,
+      "message": "Just modified lines 34 to 39 on Saturday of the suggested new one-day schedule.",
+      "revId": "08339e7af7e982579894da9338c1008cf42f5328",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
