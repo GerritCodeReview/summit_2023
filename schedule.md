@@ -29,14 +29,14 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 | 15:45     |           | *TALK AVAILABLE - Sweden*
 | 16:00     |           | Break & Networking
 | 17:00     | 08:00     | Welcome to GerritForge Inc. - *TBC* (early attenders, breakfast with remote viewing of talk)*
-| 17:15     | 08:15     | *TALK AVAILABLE - Sweden / USA
+| 17:15     | 08:15     | [Processing multiple ref updates as a one event - pull-replication use case](sessions/batchref-update.md)
 | 18:00     | 09:00     | *LIGHTNING TALKS*
 | 18:45     | 09:45     | [Q&A with the maintainers](schedule/maintainers-qa.md)
-| 19:30     | 10:30     | End of Day 1 - Sweden / Break & Networking - US
+| 19:00     | 10:00     | End of Day 1 - Sweden / Break & Networking - US
 | 20:00     |           | Dinner - Celebrations for Gerrit 15 years - Sweden
-|           | 10:45     | *TALK AVAILABLE - USA*
-|           | 11:30     | *TALK AVAILABLE - USA*
-|           | 12:15     | Lunch & Networking
+|           | 10:30     | *TALK AVAILABLE - USA*
+|           | 11:15     | *TALK AVAILABLE - USA*
+|           | 12:00     | Lunch & Networking
 
 ### Sunday 1st October
 
