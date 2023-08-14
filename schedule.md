@@ -28,7 +28,12 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 | 15:00     |           | *TALK AVAILABLE - Sweden*
 | 15:45     |           | [Make your owners rules faster](sessions/speed-up-owners.md)
 | 16:00     |           | Break & Networking
+<<<<<<< PATCH SET (226349 BatchRefUpdated in pull-replication talk)
+| 17:00     | 08:00     | Welcome to GerritForge Inc. - *TBC* (early attenders, breakfast with remote viewing of talk)*
+| 17:15     | 08:15     | [Processing multiple ref updates as a one event - pull-replication use case](sessions/batchref-update.md)
+=======
 | 17:00     | 08:00     | *TALK AVAILABLE - Sweden* (early attenders, breakfast with remote viewing of talk)*
+>>>>>>> BASE      (be6d29 Change the duration of two sessions)
 | 18:00     | 09:00     | *LIGHTNING TALKS*
 | 18:45     | 09:45     | [Code Review Research Highlights](schedule/recent-rebels-research.md)
 | 19:30     | 10:00     | End of Day 1 - Sweden / Break & Networking - US

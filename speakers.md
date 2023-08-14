@@ -26,6 +26,22 @@ review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
 
+<<<<<<< PATCH SET (226349 BatchRefUpdated in pull-replication talk)
+
+### Marcin Czech - GerritForge {#mczech}
+
+Marcin is a Senior Software Engineer at GerritForge where he contributes to the
+OpenSource Gerrit Code Review project.
+
+Over the last four years he has been involved in the design and development of
+numerous parts of the Gerrit ecosystem, such as: Gerrit core, multi-site,
+events-broker(Kafka and AWS Kinesis) and pull-replication.
+
+### Christoforos Miliotis - GerritForge {#cmiliotis}
+Christoforos is a Software Engineer with a broad experience in distributed
+systems. He joined GerritForge in March 2023 where he contributes to the
+OpenSource Gerrit Code Review project.
+=======
 ### Jacek Centkowski - Unaffiliated {#jacek}
 
 Jacek Centkowski is a Gerrit contributor since 2013. He deepened his Gerrit knowledge and
@@ -33,3 +49,4 @@ involvement and was trusted a maintainer in 2020. He has recently focused on
 [owners' plugin improvements](https://gerrit-review.googlesource.com/c/plugins/owners/+/373094/1).
 
 [LinkedIn](https://www.linkedin.com/in/jcentkowski/)
+>>>>>>> BASE      (be6d29 Change the duration of two sessions)
