@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9a0400a2_c3ca1910",
+        "filename": "lightning-talks/entering-gerrit-worls.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2023-08-17T13:45:43Z",
+      "side": 1,
+      "message": "You mention \"we\" here, however in the speakers section it is only you.\nAre you presenting this alone?",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 2
+      },
+      "revId": "38c4a1e8c4e56764533471dff6eedbb4bdbfecdb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "23469013_cac15de9",
+        "filename": "schedule.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2023-08-17T13:45:43Z",
+      "side": 1,
+      "message": "This doesn\u0027t look like a lighting talk, is it 1 hour long?",
+      "revId": "38c4a1e8c4e56764533471dff6eedbb4bdbfecdb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
