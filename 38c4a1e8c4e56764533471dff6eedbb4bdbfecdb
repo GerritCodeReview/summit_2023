@@ -48,6 +48,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b81e271f_3056e9d8",
+        "filename": "lightning-talks/entering-gerrit-worls.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1161425
+      },
+      "writtenOn": "2023-08-17T14:03:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9487f52b_946ec978",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 2
+      },
+      "revId": "38c4a1e8c4e56764533471dff6eedbb4bdbfecdb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "23469013_cac15de9",
@@ -79,6 +103,24 @@
       "side": 1,
       "message": "Thank you for pointing it out, not sure sure why we originally choose that slot.",
       "parentUuid": "23469013_cac15de9",
+      "revId": "38c4a1e8c4e56764533471dff6eedbb4bdbfecdb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "235ce7aa_81dd0bdb",
+        "filename": "schedule.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1161425
+      },
+      "writtenOn": "2023-08-17T14:03:09Z",
+      "side": 1,
+      "message": "Moved to Sunday at 15:30. I see slots available for lighting talks on Sunday at 10:15 PDT, @syntonyze@gmail.com do you think that would be better? Looks to me that summit would be over by then already in Sweden.",
+      "parentUuid": "0e2e9c83_7f378286",
       "revId": "38c4a1e8c4e56764533471dff6eedbb4bdbfecdb",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
