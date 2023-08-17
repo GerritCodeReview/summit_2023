@@ -26,6 +26,16 @@ review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
 
+<<<<<<< PATCH SET (99cca5 Add extensible healthcheck talk)
+### Antonio Barone - GerritForge {#syntonyze}
+
+[LinkedIn](https://uk.linkedin.com/in/anbarone/)
+
+Antonio joined GerritForge in 2018. Since then, he has contributed to the design
+and development of various tools and plugins for Gerrit, such as DevOps
+analytics, multi-site and chronicle-map. Recently, he zeroed in on the
+integration of Gerrit with the cloud.
+=======
 ### Jacek Centkowski - Unaffiliated {#jacek}
 
 Jacek Centkowski is a Gerrit contributor since 2013. He deepened his Gerrit knowledge and
@@ -33,3 +43,4 @@ involvement and was trusted a maintainer in 2020. He has recently focused on
 [owners' plugin improvements](https://gerrit-review.googlesource.com/c/plugins/owners/+/373094/1).
 
 [LinkedIn](https://www.linkedin.com/in/jcentkowski/)
+>>>>>>> BASE      (0dd77f Add sessions about the owners plugin improvement)
