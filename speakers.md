@@ -25,3 +25,12 @@ Ph.D. research is making pragmatic improvements to the quality and efficiency of
 review.
 
 [LinkedIn](https://www.linkedin.com/in/farshadkazemi/)
+
+### Antonio Barone - GerritForge {#syntonyze}
+
+[LinkedIn](https://uk.linkedin.com/in/anbarone/)
+
+Antonio joined GerritForge in 2018. Since then, he has contributed to the design
+and development of various tools and plugins for Gerrit, such as DevOps
+analytics, multi-site and chronicle-map. Recently, he zeroed in on the
+integration of Gerrit with the cloud.
