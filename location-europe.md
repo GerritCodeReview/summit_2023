@@ -41,8 +41,16 @@ Proceed to the reception desk in the main lobby to check-in.
 
 ## Hotels and Places to Stay
 
-Volvo Cars has a special rate for this event at the *TBC* in downtown Gothenburg
-You can reserve directly your rooms using *TBC*.
+Volvo Cars has a special rate for this event at the
+[Radisson Blu Riverside](https://goo.gl/maps/MDfnjDHm7kMMQExY7)
+in downtown Gothenburg.
+
+For those who will also attend the hackathon, the reservations from 24th
+to 29th of September can be done with the [Hackathon Hotel Link](https://www.radissonhotels.com/sv-se/booking/room-display?checkInDate=2023-09-24&checkOutDate=2023-09-29&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=497912&voucher=&brandFirst=rdb&hotelCode=SEGOTRIV).
+
+For all the attendees to the Gerrit User Summit, the reservation from
+the 29th of September to the 2nd of October can be done with the
+[Summit Hotel Link](https://www.radissonhotels.com/sv-se/booking/room-display?checkInDate=2023-09-29&checkOutDate=2023-10-02&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=497914&voucher=&brandFirst=rdb&hotelCode=SEGOTRIV).
 
 ## How to reach Volvo Cars from Gothenburg
 
