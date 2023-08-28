@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "301dcf36_d105fb27",
+        "filename": "schedule.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2023-08-28T10:17:55Z",
+      "side": 1,
+      "message": "`sessions`",
+      "range": {
+        "startLine": 39,
+        "startChar": 52,
+        "endLine": 39,
+        "endChar": 60
+      },
+      "revId": "30149c1ddd52017e759a6cbec69a7136f402e536",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
