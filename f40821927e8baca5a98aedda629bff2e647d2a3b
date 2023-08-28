@@ -144,6 +144,30 @@
       },
       "revId": "f40821927e8baca5a98aedda629bff2e647d2a3b",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "73f19736_48119111",
+        "filename": "schedule.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2023-08-28T10:01:24Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "17e98eab_85198060",
+      "range": {
+        "startLine": 34,
+        "startChar": 14,
+        "endLine": 34,
+        "endChar": 19
+      },
+      "revId": "f40821927e8baca5a98aedda629bff2e647d2a3b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
