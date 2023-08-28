@@ -1,11 +1,14 @@
 # Gerrit User Summit 2023 - Speakers
 
-### First Last - Company {#anchor}
+### Luca Milanesio - GerritForge {#luca}
 
-First Last is a long-time Gerrit contributor. He joined the Gerrit project in 2009,
-became a maintainer in 2012 and assumed the role as community manager in 2023.
+Luca is co-founder of GerritForge and has over 30 years of software
+development and application lifecycle management experience.
+He has been Gerrit Contributor since 2012, Gerrit release manager, member
+of the Gerrit Engineering Steering Committee and maintainer of [GerritHub.io](https://review.gerrithub.io),
+the Open Service for Gerrit Code Review on top of GitHub repositories.
 
-[LinkedIn](https://www.linkedin.com/in/firstlast/)
+[LinkedIn](https://www.linkedin.com/in/lucamilanesio/)
 
 ### James Blair - Acme Gating {#corvus}
 
