@@ -38,6 +38,8 @@ for cars and the area can get busy with pedestrians.
 
 ![USA venue parking](images/sunnyvale-parking.jpg)
 
+For live details on Parking spots nearby, click [here](https://en.parkopedia.com/parking/locations/100_south_murphy_avenue_sunnyvale_california_94086_united_states_gh459q9hxhkdy1hh8h/?country=us&arriving=202309300800&leaving=202309301230).
+
 ## Hotels and Places to Stay
 
 GerritForge has agreed a discounted rate for the *TBC*
