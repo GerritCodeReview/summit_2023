@@ -96,6 +96,30 @@
       },
       "revId": "f40821927e8baca5a98aedda629bff2e647d2a3b",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "17e98eab_85198060",
+        "filename": "schedule.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2023-08-28T10:00:45Z",
+      "side": 1,
+      "message": "From Luca: 15 min is fine",
+      "parentUuid": "88da48d6_a9f7e9db",
+      "range": {
+        "startLine": 34,
+        "startChar": 14,
+        "endLine": 34,
+        "endChar": 19
+      },
+      "revId": "f40821927e8baca5a98aedda629bff2e647d2a3b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
