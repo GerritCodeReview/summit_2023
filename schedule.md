@@ -47,7 +47,7 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 | Time CEST | Time PDT  | Session
 |-----------|-----------|-------------------------------------------------
 | 10:30     |           | Networking
-| 11:00     |           | [Q&A with the maintainers](schedule/maintainers-qa.md)
+| 11:00     |           | [Q&A with the maintainers](sessions/maintainers-qa.md)
 | 11:45     |           | Break
 | 12:00     |           | [What's new in Gerrit v3.8](sessions/whats-new-gerrit-3.8.md)
 | 12:45     |           | Lunch & Networking
