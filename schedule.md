@@ -30,9 +30,9 @@ The Gerrit User Summit starts at 11:00 CEST in Sweden and continues at 08:00 PDT
 | 16:00     |           | Break & Networking
 |           | 08:00     | USA, early attenders, breakfast with remote viewing of talk
 | 17:00     |           | [Processing multiple ref updates as a one event - pull-replication use case](sessions/batchref-update.md)
-| 18:00     | 09:00     | [Tailor Gerrit's healthcheck with Extensible Checks](sessions/extensible-healthcheck.md)
-| 18:15     | 09:15     | [Entering the gerrit world, painpoints and wows](lightning-talks/entering-gerrit-worls.md)
-| 18:30     | 09:30     | *LIGHTNING TALKS*
+| 18:00     | 09:00     | [Inter-plugins communication](lightning-talks/inter-plugins-comms.md)
+| 18:15     | 09:15     | [Tailor Gerrit's healthcheck with Extensible Checks](sessions/extensible-healthcheck.md)
+| 18:30     | 09:30     | [Entering the gerrit world, painpoints and wows](lightning-talks/entering-gerrit-worls.md)
 | 18:45     | 09:45     | [Code Review Research Highlights](sessions/recent-rebels-research.md)
 | 19:30     | 10:00     | End of Day 1 - Sweden / Break & Networking - US
 | 20:00     |           | Dinner - Celebrations for Gerrit 15 years - Sweden
