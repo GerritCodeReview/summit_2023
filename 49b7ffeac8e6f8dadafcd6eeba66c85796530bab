@@ -39,6 +39,30 @@
       },
       "revId": "49b7ffeac8e6f8dadafcd6eeba66c85796530bab",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d905ec52_7d99406a",
+        "filename": "schedule.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1155599
+      },
+      "writtenOn": "2023-08-29T00:10:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1d5aba01_9183ba3d",
+      "range": {
+        "startLine": 57,
+        "startChar": 26,
+        "endLine": 58,
+        "endChar": 24
+      },
+      "revId": "49b7ffeac8e6f8dadafcd6eeba66c85796530bab",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
