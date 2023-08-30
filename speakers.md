@@ -104,3 +104,12 @@ He also gets to learn from the team's wealth of experience in all things Gerrit
 and contribute to the long list of plugin's maintained by them.
 
 [LinkedIn](https://www.linkedin.com/in/danielesassoli/)
+
+### Thomas Draebing - SAP {#tdraebing}
+
+[LinkedIn](https://www.linkedin.com/in/thomasdraebing/)
+
+Thomas is a Software Developer at SAP, where he is part of the team providing
+Gerrit for development teams within SAP. He is actively contributing to Gerrit
+since 2018 and has started the [k8s-gerrit](https://gerrit-review.googlesource.com/admin/repos/k8s-gerrit,general)
+project.
