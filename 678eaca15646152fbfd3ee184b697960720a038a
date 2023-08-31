@@ -24,6 +24,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ed3b50cc_bc5e6d85",
+        "filename": "sessions/k8s-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1065256
+      },
+      "writtenOn": "2023-08-31T11:48:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1b07e3b1_03dd2922",
+      "range": {
+        "startLine": 6,
+        "startChar": 17,
+        "endLine": 6,
+        "endChar": 44
+      },
+      "revId": "678eaca15646152fbfd3ee184b697960720a038a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fcfbbab3_532d738a",
@@ -47,6 +71,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3dff14ba_901ecaa2",
+        "filename": "sessions/k8s-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1065256
+      },
+      "writtenOn": "2023-08-31T11:48:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fcfbbab3_532d738a",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 9
+      },
+      "revId": "678eaca15646152fbfd3ee184b697960720a038a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b174d2d2_d0ac0790",
@@ -60,6 +108,30 @@
       "writtenOn": "2023-08-30T20:37:51Z",
       "side": 1,
       "message": "simplifying Gerrit deployment on",
+      "range": {
+        "startLine": 8,
+        "startChar": 9,
+        "endLine": 8,
+        "endChar": 49
+      },
+      "revId": "678eaca15646152fbfd3ee184b697960720a038a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f707d605_bad9afaa",
+        "filename": "sessions/k8s-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1065256
+      },
+      "writtenOn": "2023-08-31T11:48:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b174d2d2_d0ac0790",
       "range": {
         "startLine": 8,
         "startChar": 9,
