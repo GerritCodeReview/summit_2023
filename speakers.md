@@ -113,3 +113,11 @@ Thomas is a Software Developer at SAP, where he is part of the team providing
 Gerrit for development teams within SAP. He is actively contributing to Gerrit
 since 2018 and has started the [k8s-gerrit](https://gerrit-review.googlesource.com/admin/repos/k8s-gerrit,general)
 project.
+
+### Long Xie - Superhexa {#xielong}
+
+Long Xie has over 15 years of software development experience and is the backend
+tech lead at the smart hardware company, Superhexa. He previously worked at
+Xiaomi for 10 years.
+
+[Github](https://github.com/xielong)
