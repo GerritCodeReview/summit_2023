@@ -52,6 +52,6 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 | 12:00     |           | [What's new in Gerrit v3.8](sessions/whats-new-gerrit-3.8.md)
 | 12:45     |           | Lunch & Networking
 | 14:00     |           | [Gerrit on Kubernetes](sessions/k8s-gerrit.md)
-| 14:45     |           | *TALK AVAILABLE - Sweden*
+| 14:45     |           | [Using GPT for Code Review on Gerrit](lightning-talks/gpt-for-gerrit.md)
 | 15:30     |           | *TALK AVAILABLE - Sweden*
 | 16:00     |           | End of the Summit - Sweden
