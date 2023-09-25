@@ -16,6 +16,24 @@
       "message": "Looking forward to it ! Can you propose a slot in the schedule?",
       "revId": "9af2c669edec2ad4b3408b2d9f16f282ee9c2137",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6786021f_1561f016",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1166483
+      },
+      "writtenOn": "2023-09-25T03:48:23Z",
+      "side": 1,
+      "message": "It\u0027s already scheduled. By the way, how do online discussions work and how can I join in?",
+      "parentUuid": "61b41706_0e3a655e",
+      "revId": "9af2c669edec2ad4b3408b2d9f16f282ee9c2137",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }

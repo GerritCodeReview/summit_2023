@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b7f6544e_56dc298b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1166483
+      },
+      "writtenOn": "2023-09-25T03:48:23Z",
+      "side": 1,
+      "message": "How do online discussions work and how can I get involved？",
+      "revId": "de4191170937f2f687278f4fa60d2c71fdd7624d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
