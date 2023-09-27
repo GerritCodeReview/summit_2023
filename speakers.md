@@ -121,3 +121,11 @@ tech lead at the smart hardware company, Superhexa. He previously worked at
 Xiaomi for 10 years.
 
 [Github](https://github.com/xielong)
+
+### Patrick Hiesel - Google {#hiesel}
+
+Patrick joined Google and the Gerrit project in 2016, working primarily on the
+backend. Since then, he has worked on making Gerrit faster, and more stable as
+well as different features, including Submit Requirements.
+
+He is a Gerrit maintainer and a member of the Engineering Steering Committee.
