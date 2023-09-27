@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0fa0f43f_6a5d21cd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2023-09-27T08:08:15Z",
+      "side": 1,
+      "message": "Good stuff, thanks Patrick for talking at the Summit this year !",
+      "revId": "9509ea54c107c14ebb33d91b7468666ec0efd39d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
