@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9efb8b73_7dcb096c",
+        "filename": "sessions/git-health-service.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1004034
+      },
+      "writtenOn": "2023-09-28T07:57:06Z",
+      "side": 1,
+      "message": "go",
+      "range": {
+        "startLine": 3,
+        "startChar": 21,
+        "endLine": 3,
+        "endChar": 24
+      },
+      "revId": "062263153756c7cb94409de50c9632e2fc1b2c17",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "87d0ca43_7c0f8e47",
+        "filename": "sessions/git-health-service.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1004034
+      },
+      "writtenOn": "2023-09-28T07:57:06Z",
+      "side": 1,
+      "message": "discuss",
+      "range": {
+        "startLine": 6,
+        "startChar": 7,
+        "endLine": 6,
+        "endChar": 17
+      },
+      "revId": "062263153756c7cb94409de50c9632e2fc1b2c17",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
