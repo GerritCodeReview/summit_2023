@@ -129,3 +129,10 @@ backend. Since then, he has worked on making Gerrit faster, and more stable as
 well as different features, including Submit Requirements.
 
 He is a Gerrit maintainer and a member of the Engineering Steering Committee.
+
+### Dominik Aschbacher - BearingPoint {#dominik}
+
+Dominik Aschbacher, 23 years old, DevOps Engineer at BearingPoint, working with
+Kubernetes, Prometheus, IaC (Pulumi), CI/CD.
+
+[Github](https://github.com/aschbacd)
