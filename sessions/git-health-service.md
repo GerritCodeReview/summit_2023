@@ -10,4 +10,4 @@ problem in a more systematic way on large-scale systems.
 The tool is agnostic of the Git server you are running and
 is flexible enough to smoothly integrate into your ecosystem.
 
-*[Fabio Ponciroli, GerritFroge Inc.](../speakers.md#fponciroli)*
+*[Fabio Ponciroli, GerritForge Inc.](../speakers.md#fponciroli)*
