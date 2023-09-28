@@ -54,4 +54,5 @@ The Gerrit User Summit starts at 10:30 CEST in Sweden *ONLY*
 | 14:00     |           | [Gerrit on Kubernetes](sessions/k8s-gerrit.md)
 | 14:45     |           | [Using GPT for Code Review on Gerrit](lightning-talks/gpt-for-gerrit.md)
 | 15:00     |           | [Lightweight Forks](lightning-talks/lightweight-forks.md)
+| 15:15     |           | [Gerrit@CodeCraft (BMW) - Pulumi managed k8s Gerrit](sessions/gerrit-at-codecfraft-bmw.md)
 | 16:00     |           | End of the Summit - Sweden
