@@ -13,3 +13,4 @@ code 1827 030.
 * [Luca Milanesio - GerritForge](/speakers.md#luca)
 * [Patrick Hiesel - Google](/speakers.md#hiesel)
 * Sasa Zivkov - SAP
+*[Thomas Dräbing - SAP](/speakers.md#thomas-draebing---sap-tdraebing)
